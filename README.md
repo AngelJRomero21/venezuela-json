@@ -3,7 +3,8 @@ Ciudades, Municipios, Parroquias y Barrios de Venezuela, Bancos en Venezuela, Em
 
 
 ## Bancos
-Repositorio: https://github.com/AngelJRomero21/venezuelaBanks/  Fork de: https://github.com/joseaugustosoto/venezuelaBanks/
+Repositorio: https://github.com/joseaugustosoto/venezuelaBanks/ 
+Fork: https://github.com/AngelJRomero21/venezuelaBanks/
 ### En la carpeta Bancos podra encontrar:
 * "banks-pagomovil.json" : Bancos Afiliados a la red de Pago Movil Interbancario
 * "banks.json" : Bancos de Venezuela obtenidos desde el BCV
@@ -18,5 +19,3 @@ Repositorio: https://github.com/AngelJRomero21/venezuelaBanks/  Fork de: https:/
 
 
 
-
-Repositorio de Bancos: https://github.com/AngelJRomero21/venezuelaBanks
